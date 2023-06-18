@@ -13,7 +13,7 @@
 ## 1.1. Équipe de 4 personnes
 Notre équipe projet est composée par :
 
-- Damien OLLIER 
+- Damien OLLIER: j'ai mise en place le code dans la carte arduino pour gerer les capteurs (flame, air quality et carte wifi)
 - Sami Hadjeb
 - Antoine Sterna
 - Camil Coullon (Chef de groupe)
