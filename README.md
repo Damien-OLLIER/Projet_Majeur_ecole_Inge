@@ -1,4 +1,3 @@
-
 # 1. Projet Mob - IoT
 - [1. Projet Mob - IoT](#1-projet-mob---iot)
   - [1.1. Équipe de 4 personnes](#11-équipe-de-4-personnes)
