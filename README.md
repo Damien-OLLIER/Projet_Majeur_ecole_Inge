@@ -1,3 +1,7 @@
+### J'ai fait la partie [1. Arduino](https://github.com/Damien-OLLIER/Projet_Majeure_ecole_Inge/tree/master/ProjetMajeur/1.%20Arduino) dans ce projet  
+Avec la mise en place des capteurs et le code disponible [ici](https://github.com/Damien-OLLIER/Projet_Majeure_ecole_Inge/blob/master/ProjetMajeur/1.%20Arduino/CodeArduinoCapteurs/CodeArduinoCapteurs.ino): 
+
+# Sommaire
 # 1. Projet Mob - IoT
 - [1. Projet Mob - IoT](#1-projet-mob---iot)
   - [1.1. Équipe de 4 personnes](#11-équipe-de-4-personnes)
